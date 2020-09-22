@@ -1,4 +1,4 @@
-package ru.dexsys;
+package ru.dexsys.ru.dexsys;
 
 /**
  * Hello world!
